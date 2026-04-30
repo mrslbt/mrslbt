@@ -2,7 +2,7 @@
 
 **Designer who ships** · Tokyo
 
-Building for the era when the user isn't always human. Six MCPs on npm, all solo end-to-end. The design work lives at [marselbait.me](https://marselbait.me); this GitHub is the delivery record.
+Building for the era when the user isn't always human. Six MCPs on npm, all solo end-to-end. Design portfolio lives at [marselbait.me](https://marselbait.me); this GitHub is the delivery record.
 
 ---
 
@@ -19,13 +19,13 @@ Building for the era when the user isn't always human. Six MCPs on npm, all solo
 
 Visual Designer at **Mirai Creation Company** in Tokyo (2024 to present).
 
-Product Designer at **Enjin Inc** (2020 to 2024). Sole designer on the four-year Enjin.world redesign across three product verticals. Ran 20+ user interviews. Built and maintained a full Adobe XD component library that cut design-to-engineering handoff time.
+Product Designer at **Enjin Inc** (2020 to 2024).
 
 M.A. Media Design, **Keio University** (KMD). B.A. Visual Communication, **University of the Philippines Diliman**.
 
 #### Languages
 
-English (TOEIC 970) · Indonesian · Filipino · Japanese (conversational)
+English · Indonesian · Filipino · Japanese (conversational)
 
 ---
 
