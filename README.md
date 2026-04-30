@@ -1,24 +1,23 @@
 ### Marsel Bait
 
-Product designer in Tokyo. Seven years shipping UI for recruitment platforms, consumer apps, and brand systems.
+**Designer who ships** · Tokyo
 
-This year I started shipping code end-to-end through Claude Code and AI tooling. Result so far: six MCP servers on npm with ~2,500 monthly downloads, two Chrome extensions, several web apps, one Claude Code skill. All solo, all public, all in production.
-
-This GitHub is the delivery record. The design work lives at [marselbait.me](https://marselbait.me).
+Building for the era when the user isn't always human. Six MCPs on npm, all solo end-to-end. The design work lives at [marselbait.me](https://marselbait.me); this GitHub is the delivery record.
 
 ---
 
 #### Currently shipping
 
 - [**pdf-it**](https://github.com/mrslbt/pdf-it) · designed PDF output from markdown (Claude Code skill + MCP)
+- [**rippr**](https://github.com/mrslbt/rippr) · YouTube transcript ripper for RAG and LLM workflows (Chrome extension + MCP)
 - [**japan-ux-mcp**](https://github.com/mrslbt/japan-ux-mcp) · Japan-native web UX conventions as agent tools
 - [**paypay-mcp**](https://github.com/mrslbt/paypay-mcp) · PayPay Open Payment API for AI agents
-- [**rippr**](https://github.com/mrslbt/rippr) · YouTube transcript ripper for RAG and LLM workflows (Chrome extension + MCP)
-- [**The-Seer**](https://github.com/mrslbt/The-Seer) · web-based astrology oracle with real astronomical calculations
+- [**rakuten-mcp**](https://github.com/mrslbt/rakuten-mcp) · Rakuten Ichiba, Books, and Travel for AI agents
+- [**xendit-mcp**](https://github.com/mrslbt/xendit-mcp) · Xendit payment APIs across Southeast Asia for AI agents
 
 #### Background
 
-Visual Designer at **Mirai Creation Company** in Tokyo (2024 to present). Design across tourism, restaurant, and brand work.
+Visual Designer at **Mirai Creation Company** in Tokyo (2024 to present).
 
 Product Designer at **Enjin Inc** (2020 to 2024). Sole designer on the four-year Enjin.world redesign across three product verticals. Ran 20+ user interviews. Built and maintained a full Adobe XD component library that cut design-to-engineering handoff time.
 
