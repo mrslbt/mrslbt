@@ -32,9 +32,8 @@ English · Indonesian · Filipino · Japanese (conversational)
 #### Find me
 
 - Portfolio: [marselbait.me](https://marselbait.me)
-- AI design decade essay: [futureproof.bymarsel.me](https://futureproof.bymarsel.me)
 - X: [@bymarselb](https://x.com/bymarselb)
 - LinkedIn: [linkedin.com/in/marselbait](https://linkedin.com/in/marselbait)
 - Email: marselbait@gmail.com
 
-Open to senior product design roles in AI-native companies. Tokyo or remote.
+Open to senior product design roles, especially in AI-native companies. Tokyo or remote.
