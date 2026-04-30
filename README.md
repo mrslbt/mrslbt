@@ -36,4 +36,4 @@ English · Indonesian · Filipino · Japanese (conversational)
 - LinkedIn: [linkedin.com/in/marselbait](https://linkedin.com/in/marselbait)
 - Email: marselbait@gmail.com
 
-Open to senior product design roles, especially in AI-native companies. Tokyo or remote.
+Open to senior product design roles, especially in AI-native companies.
