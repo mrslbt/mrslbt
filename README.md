@@ -2,18 +2,19 @@
 
 **Designer who ships** · Tokyo
 
-Building for the era when the user isn't always human. Six MCPs on npm, all solo end-to-end. Design portfolio lives at [marselbait.me](https://marselbait.me); this GitHub is the delivery record.
+Building for the era when the user isn't always human. Seven MCPs on npm, all solo end-to-end. Design portfolio lives at [marselbait.me](https://marselbait.me); this GitHub is the delivery record.
 
 ---
 
 #### Currently shipping
 
-- [**pdf-it**](https://github.com/mrslbt/pdf-it) · designed PDF output from markdown (Claude Code skill + MCP)
-- [**rippr**](https://github.com/mrslbt/rippr) · YouTube transcript ripper for RAG and LLM workflows (Chrome extension + MCP)
-- [**japan-ux-mcp**](https://github.com/mrslbt/japan-ux-mcp) · Japan-native web UX conventions as agent tools
-- [**paypay-mcp**](https://github.com/mrslbt/paypay-mcp) · PayPay Open Payment API for AI agents
-- [**rakuten-mcp**](https://github.com/mrslbt/rakuten-mcp) · Rakuten Ichiba, Books, and Travel for AI agents
+- [**rakuten-mcp**](https://github.com/mrslbt/rakuten-mcp) · Rakuten Ichiba, Books, Travel, Recipe, Kobo, and GORA (golf) for AI agents
+- [**tabedata-mcp**](https://github.com/mrslbt/tabedata-mcp) · Bilingual Japanese food nutrition (460 cited items) for AI agents
 - [**xendit-mcp**](https://github.com/mrslbt/xendit-mcp) · Xendit payment APIs across Southeast Asia for AI agents
+- [**paypay-mcp**](https://github.com/mrslbt/paypay-mcp) · PayPay Open Payment API for AI agents
+- [**japan-ux-mcp**](https://github.com/mrslbt/japan-ux-mcp) · Japan-native web UX conventions as agent tools
+- [**rippr**](https://github.com/mrslbt/rippr) · YouTube transcript ripper for RAG and LLM workflows (Chrome extension + MCP)
+- [**pdf-it**](https://github.com/mrslbt/pdf-it) · designed PDF output from markdown (Claude Code skill + MCP)
 
 #### Background
 
@@ -32,6 +33,7 @@ English · Indonesian · Filipino · Japanese (conversational)
 #### Find me
 
 - Portfolio: [marselbait.me](https://marselbait.me)
+- npm: [npmjs.com/~mrslbt](https://www.npmjs.com/~mrslbt)
 - X: [@bymarselb](https://x.com/bymarselb)
 - LinkedIn: [linkedin.com/in/marselbait](https://linkedin.com/in/marselbait)
 - Email: marselbait@gmail.com
