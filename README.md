@@ -1,6 +1,6 @@
 ### Marsel Bait
 
-**Designer who ships** · Tokyo
+**Product designer in Tokyo** · Side quest: shipping AI infrastructure
 
 Building for the era when the user isn't always human. Seven MCPs on npm, all solo end-to-end. Design portfolio lives at [marselbait.me](https://marselbait.me); this GitHub is the delivery record.
 
